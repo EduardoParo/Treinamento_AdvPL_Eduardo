@@ -4,7 +4,7 @@
 /*/{Protheus.doc} --------------------------*
 | @Treinamento - REST                       |
 | @Aula:  API_SIMPLES                       |            
-| @data : 17/08/2021                        |            
+| @data : 18/08/2021                        |            
 | @Autor: Eduardo Paro de Simoni            |        
 --------------------------------------------*/
 Function U_zget() as undefined
